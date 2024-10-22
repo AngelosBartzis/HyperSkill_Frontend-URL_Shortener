@@ -1,0 +1,12 @@
+body {
+    text-align: center;
+}
+
+h1 {
+    font-size: x-large;
+}
+
+button {
+    background: blue;
+    color: white;
+}
